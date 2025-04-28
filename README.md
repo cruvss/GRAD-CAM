@@ -1,0 +1,1 @@
+This repository implements GRAD-CAM (Gradient-weighted Class Activation Mapping), a technique for producing visual explanations for decisions from convolutional neural networks (CNNs). Based on the paper ["Grad-CAM: Visual Explanations from Deep Networks"](https://arxiv.org/abs/1610.02391) by Selvaraju et al., ICCV 2017.
