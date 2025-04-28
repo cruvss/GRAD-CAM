@@ -2,3 +2,5 @@ outputs/
 photos/
 key_points.ipynb
 test.jpg
+grad/
+.vscode/ 
